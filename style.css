@@ -1,0 +1,39 @@
+body{
+  font-family:Raleway;
+  padding:30px;
+  background-color:#333; 
+  color:white;
+}
+
+h1{
+  font-family:Lobster;
+  text-align:center;
+  font-size:3em;
+}
+
+#location{
+  font-size:2em;
+}
+
+#temperature{
+  font-size:2em;
+}
+
+#weatherLogo{
+  width:15%;
+}
+
+.row{
+  text-align:center;
+}
+
+#unit{
+  font-size:1.5em;
+  text-decoration:none;
+}
+
+#unit:hover{
+  font-size:2em;
+  text-shadow:2px 2px 5px #000;
+}
+
