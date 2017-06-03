@@ -1,7 +1,7 @@
-body{
+#body{
   font-family:Raleway;
   padding:30px;
-  background-color:#333; 
+  background-color:#333;
   color:white;
 }
 
@@ -36,4 +36,3 @@ h1{
   font-size:2em;
   text-shadow:2px 2px 5px #000;
 }
-
